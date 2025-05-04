@@ -25,8 +25,8 @@
     },
     "finance": {
       "title": "财务建模与分析",
-      "financial_analysis": "财务报表分析",
-      "valuation": "估值模型"
+      "financial_analysis": "财务报表分析(资产负债表、利润表、现金流量表)",
+      "valuation": "估值模型(DCF、PE、PB、EV/EBITDA)"
     },
     "productivity": {
       "title": "办公与可视化工具",
