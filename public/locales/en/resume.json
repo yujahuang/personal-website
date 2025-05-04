@@ -47,8 +47,8 @@
     },
     "finance": {
       "title": "Financial Modeling & Analysis",
-      "financial_analysis": "Financial Statement Analysis",
-      "valuation": "Valuation Models"
+      "financial_analysis": "Financial Statement Analysis(Balance Sheet, Income Statement, Cash Flow Statement) ",
+      "valuation": "Valuation Models(DCF、PE、PB、EV/EBITDA) "
     },
     "productivity": {
       "title": "Productivity & Visualization",
