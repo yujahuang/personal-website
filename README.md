@@ -3,6 +3,7 @@
 这是一个基于 Next.js 和 React 构建的个人网站，支持中英文双语切换，拥有响应式布局和丰富的个性化展示功能。
 
 This is a personal website built with Next.js and React. It supports both Chinese and English languages, responsive layout, and comprehensive personal profile features.
+https://yujiahuang.vercel.app/
 
 ---
 
