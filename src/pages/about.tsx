@@ -18,7 +18,7 @@ export default function About() {
           <Text fontSize="lg" mb={4} className={isZh ? "zh-text" : "en-text"}>
             {i18n.language === 'zh' 
               ? t('intro.description') 
-              : "I am a Finance student in the International Experimental Class (Economics and Management) at SWUFE."}
+              : "I am a Finance student in the International Experimental Class (Economics and Management) at SWUFE. I have a strong background in investment strategies and blockchain technologies. I've achieved over 300% returns through discretionary trading and provided consultancy to WorldQuant Brain. I'm also experienced in mathematical modeling, full-stack development, and evaluating 10+ cryptocurrency projects in depth. I'm passionate about exploring the intersection of finance, computer science, and artificial intelligence."}
           </Text>
         </Box>
 
