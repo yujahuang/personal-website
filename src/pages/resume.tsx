@@ -96,11 +96,11 @@ export default function Resume() {
           <Flex gap={4}>
             <Button
               leftIcon={<DownloadIcon />}
-              colorScheme="pink"
+              colorScheme="gray"
               variant="solid"
-              bgGradient="linear(to-r, pink.400, pink.600)"
+              bgGradient="linear(to-r, gray.400, gray.600)"
               _hover={{ 
-                bgGradient: "linear(to-r, pink.500, pink.700)",
+                bgGradient: "linear(to-r, gray.500, gray.700)",
                 transform: "translateY(-2px)",
                 boxShadow: "xl"
               }}
@@ -113,11 +113,11 @@ export default function Resume() {
             </Button>
             <Button
               leftIcon={<DownloadIcon />}
-              colorScheme="pink"
+              colorScheme="pray"
               variant="solid"
-              bgGradient="linear(to-r, pink.400, pink.600)"
+              bgGradient="linear(to-r, gray.400, gray.600)"
               _hover={{ 
-                bgGradient: "linear(to-r, pink.500, pink.700)",
+                bgGradient: "linear(to-r, gray.500, gray.700)",
                 transform: "translateY(-2px)",
                 boxShadow: "xl"
               }}
