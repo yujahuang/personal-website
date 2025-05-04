@@ -142,8 +142,8 @@ export default function Resume() {
                 {t('skills.languages.title')}
               </Heading>
               <Box w="100%">
-                <SkillBar name={t('skills.languages.chinese')} level={5} color="red.500" />
-                <SkillBar name={t('skills.languages.english')} level={4} color="red.500" />
+                <SkillBar name={t('skills.languages.chinese')} level={5} color="teal.500" />
+                <SkillBar name={t('skills.languages.english')} level={4} color="teal.500" />
                 <SkillBar name="Java" level={4} color="blue.500" />
                 <SkillBar name="MySQL" level={4} color="blue.500" />
                 <SkillBar name="VBA" level={2} color="blue.500" />
