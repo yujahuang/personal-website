@@ -1,0 +1,25 @@
+{
+  "title": "Experience",
+  "blockchain": {
+    "title": "China Blockchain Research Center, Southwestern University of Finance and Economics",
+    "period": "2024.1–2024.4",
+    "position": "Position: Analyst",
+    "achievements": {
+      "research": "Conducted in-depth research on modular Layer 2 solutions (e.g., Manta)",
+      "framework": "Developed a six-part investment framework (Summary, Market, Project, Highlights, Valuation, Risks)",
+      "tracking": "Tracked L2 dominance (77.2%) and Celestia's 450% growth for valuation modeling",
+      "returns": "Proposed strategic allocation, achieving simulated returns over 50%",
+      "monitoring": "Monitored ZK ecosystem developments for entry/risk opportunities"
+    }
+  },
+  "worldquant": {
+    "title": "WorldQuant Brain Consultant",
+    "period": "2023.8–2023.9",
+    "achievements": {
+      "alpha": "Built a 50+ alpha-factor library through heterogeneous data and multi-factor modeling",
+      "models": "Designed position sizing models via nonlinear optimization",
+      "sharpe": "Achieved Sharpe ratio of 1.9+",
+      "ranking": "Ranked top 3 globally in Alphathon Infinity Champions 002"
+    }
+  }
+} 

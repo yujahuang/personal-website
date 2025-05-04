@@ -1,0 +1,41 @@
+{
+  "intro": {
+    "title": "Finance × Blockchain × AI Explorer",
+    "description": "I'm a finance major in the International Experimental Class in Economics and Management at Southwestern University of Finance and Economics. I have a strong background in investment strategies and blockchain technologies. I've achieved over 300% returns through discretionary trading and provided consultancy to WorldQuant Brain. I'm also experienced in mathematical modeling, full-stack development, and evaluating 10+ cryptocurrency projects in depth. I'm passionate about exploring the intersection of finance, computer science, and artificial intelligence."
+  },
+  "study": {
+    "title": "I study",
+    "items": {
+      "trading": "Quantitative trading and alpha research",
+      "blockchain": "Blockchain infrastructure (Layer 2, ZK)",
+      "web": "Full-stack web development",
+      "ml": "Machine learning and mathematical modeling",
+      "finance": "Cross-border financial innovation"
+    }
+  },
+  "likes": {
+    "title": "I like",
+    "items": {
+      "basketball": "Basketball",
+      "badminton": "Badminton",
+      "tableTennis": "Table Tennis",
+      "volleyball": "Volleyball",
+      "latin": "Latin Dance",
+      "piano": "Piano",
+      "cycling": "Night cycling",
+      "drawing": "Drawing",
+      "go": "Chinese Go (Weiqi)",
+      "chess": "Chinese Chess (Xiangqi)"
+    }
+  },
+  "meet": {
+    "title": "I'm excited to meet people who",
+    "items": {
+      "mbti": "Are ENTJ / ENFP / INTJ / ISTJ types",
+      "astrology": "Love exploring astrology and star charts",
+      "pets": "Enjoy raising pets",
+      "motorsports": "Are passionate about motorsports",
+      "warriors": "Support the Golden State Warriors"
+    }
+  }
+} 

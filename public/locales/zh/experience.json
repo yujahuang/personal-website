@@ -1,0 +1,25 @@
+{
+  "title": "经历",
+  "blockchain": {
+    "title": "西南财经大中国块链研究中心",
+    "period": "2024.1–2024.4",
+    "position": "职位：分析师",
+    "achievements": {
+      "research": "深入研究模块化 Layer 2 解决方案（如 Manta）",
+      "framework": "构建六维投资框架（摘要、市场、项目、亮点、估值、风险）",
+      "tracking": "跟踪 L2 占有率（77.2%）与 Celestia 450% 增长趋势进行估值建模",
+      "returns": "提出战略性配置方案，模拟收益超过 50%",
+      "monitoring": "关注 ZK 生态发展，识别入场与风险控制机会"
+    }
+  },
+  "worldquant": {
+    "title": "WorldQuant Brain 顾问",
+    "period": "2023.8–2023.9",
+    "achievements": {
+      "alpha": "构建了包含 50 多个 alpha 因子的因子库，基于异质数据与多因子建模",
+      "models": "设计非线性优化算法的仓位分配模型",
+      "sharpe": "实现 Sharpe 比率超过 1.9",
+      "ranking": "在 Alphathon Infinity Champions 002 全球排名前 3"
+    }
+  }
+} 

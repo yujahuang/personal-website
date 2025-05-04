@@ -1,0 +1,22 @@
+{
+  "title": "联系方式",
+  "description": "欢迎通过电子邮件与我联系，无论是合作、项目讨论，还是关于加密、金融或科技的随意交流，我都非常乐意！",
+  "collaboration": {
+    "title": "目前我提供以下几方面的合作：",
+    "marketing": "营销方面：企业/机构微信公众号的全栈搭建与运营（包括内容文稿撰写）",
+    "technical": {
+      "title": "技术方面：",
+      "trading": "开发量化交易策略或 Alpha 模型（使用 Python）",
+      "fullstack": "为各类项目提供技术支持，涵盖全栈开发（使用 Cursor VIP 等开发工具）",
+      "ai": "提供 AI 应用的本地部署支持"
+    },
+    "research": "研究方面：数据分析、撰写研报、制作 PPT 及演讲汇报材料"
+  },
+  "contact_info": {
+    "email": "yujia.huang2024@gmail.com",
+    "github": "GitHub"
+  },
+  "linkedin": {
+    "coming_soon": "LinkedIn 主页即将上线"
+  }
+} 

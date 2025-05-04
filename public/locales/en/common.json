@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "resume": "Resume",
+    "contact": "Contact",
+    "stats": "Stats"
+  },
+  "home": {
+    "title": "Yujia Huang",
+    "about": {
+      "title": "About this site",
+      "description": "A minimal, bilingual, statically-generated personal site designed to showcase my academic journey and tech-driven finance interests."
+    },
+    "welcome": {
+      "title": "Welcome",
+      "description": "Welcome to my website. Please feel free to read more about me, or you can check out my resume, projects, view my experiences, or contact me."
+    },
+    "source": "Source available here"
+  },
+  "sidebar": {
+    "title": "About Me",
+    "intro": {
+      "en": "I'm an undergraduate student at the Southwestern University of Finance and Economics, currently studying in the International Experimental Class in Economics and Management. I thrive at the intersection of finance and technology, where I explore cutting-edge solutions in blockchain, quantitative strategies, and artificial intelligence.",
+      "zh": "我是西南财经大学国际经济与管理实验班的一名本科生。我的兴趣集中在金融与科技的交叉点，专注于探索区块链、量化策略及人工智能中的前沿解决方案。"
+    }
+  }
+} 

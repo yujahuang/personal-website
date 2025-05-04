@@ -1,0 +1,41 @@
+{
+  "intro": {
+    "title": "金融 × 区块链 × AI 探索者",
+    "description": "我是西南财经大学国际经济与管理实验班的金融专业学生，拥有扎实的投资策略与区块链技术背景。我曾通过自主交易实现超过 300% 的收益，并为 WorldQuant Brain 提供策略顾问支持。此外，我具备数学建模、全栈开发经验，并对超过十个加密项目进行了深入研究和评估。我热衷于探索金融、计算机科学与人工智能交叉融合下的新兴方向。"
+  },
+  "study": {
+    "title": "我学习",
+    "items": {
+      "trading": "量化交易与 alpha 因子研究",
+      "blockchain": "区块链基础设施（Layer 2、零知识证明）",
+      "web": "全栈网站开发",
+      "ml": "机器学习与数学建模",
+      "finance": "跨境金融创新"
+    }
+  },
+  "likes": {
+    "title": "我喜欢",
+    "items": {
+      "basketball": "篮球",
+      "badminton": "羽毛球",
+      "tableTennis": "乒乓球",
+      "volleyball": "排球",
+      "latin": "拉丁舞",
+      "piano": "钢琴",
+      "cycling": "夜骑",
+      "drawing": "画画",
+      "go": "中国围棋",
+      "chess": "中国象棋"
+    }
+  },
+  "meet": {
+    "title": "我期待遇到",
+    "items": {
+      "mbti": "ENTJ/ENFP/INTJ/ISTJ 性格类型的人",
+      "astrology": "喜欢研究星盘的人",
+      "pets": "喜欢养宠物的人",
+      "motorsports": "喜欢赛车的人",
+      "warriors": "喜欢金州勇士的人"
+    }
+  }
+} 

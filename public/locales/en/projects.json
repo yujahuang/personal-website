@@ -1,0 +1,19 @@
+{
+  "title": "Projects",
+  "backtesting": {
+    "title": "Quantitative Backtesting Platform",
+    "description": "Built a cloud-native platform supporting strategy design, backtesting, and data orchestration. Deployed on Sealos using Vue 3, Node.js, PostgreSQL, and AI-assisted development tools.",
+    "features": {
+      "title": "Features",
+      "items": {
+        "frontend": "Frontend: Vue 3 + TypeScript + dark/light theme toggle",
+        "backend": "Backend: Node.js + WebSocket + sandboxed strategy engine",
+        "optimizations": "Optimizations: lazy loading, virtual scroll, sharded DB, caching",
+        "cicd": "CI/CD with health monitoring and 99.95% uptime",
+        "indicators": "Supported 30+ indicators and 6 strategy types",
+        "performance": "500+ backtests/day with <50ms latency, FCP 0.7s"
+      }
+    },
+    "note": "The project is currently under update and will be open source once the update is completed. Stay tuned!"
+  }
+} 

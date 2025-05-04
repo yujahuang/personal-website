@@ -1,0 +1,40 @@
+{
+  "title": "简历",
+  "view_text": "您可以点击这里查看我的简历",
+  "en_resume": "英文简历",
+  "zh_resume": "中文简历",
+  "download": {
+    "description": "您可以在此下载我的简历：",
+    "english": "英文简历 PDF",
+    "chinese": "中文简历 PDF"
+  },
+  "skills": {
+    "title": "技能",
+    "languages": {
+      "title": "语言与编程",
+      "chinese": "中文",
+      "english": "英语"
+    },
+    "blockchain": {
+      "title": "数据分析与区块链工具",
+      "items": {
+        "dune": "Dune Analytics",
+        "debank": "DeBank",
+        "etherscan": "Etherscan"
+      }
+    },
+    "finance": {
+      "title": "财务建模与分析",
+      "financial_analysis": "财务报表分析",
+      "valuation": "估值模型"
+    },
+    "productivity": {
+      "title": "办公与可视化工具",
+      "items": {
+        "wind": "WIND",
+        "thinkcell": "ThinkCell",
+        "visio": "Visio"
+      }
+    }
+  }
+} 

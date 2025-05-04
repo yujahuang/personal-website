@@ -1,0 +1,19 @@
+{
+  "title": "项目",
+  "backtesting": {
+    "title": "量化回测平台",
+    "description": "构建了一个云原生平台，支持策略设计、回测和数据编排。使用 Vue 3、Node.js、PostgreSQL 和 AI 辅助开发工具，在 Sealos 上部署。",
+    "features": {
+      "title": "功能特点",
+      "items": {
+        "frontend": "前端：Vue 3 + TypeScript + 明暗主题切换",
+        "backend": "后端：Node.js + WebSocket + 沙箱策略引擎",
+        "optimizations": "优化：懒加载、虚拟滚动、分片数据库、缓存机制",
+        "cicd": "CI/CD：健康监控机制，正常运行时间达 99.95%",
+        "indicators": "支持 30 多个技术指标和 6 种策略类型",
+        "performance": "每日回测超过 500 次，延迟 <50 毫秒，首帧加载时间 0.7 秒"
+      }
+    },
+    "note": "项目正在更新中，更新完毕后将开源，敬请期待！"
+  }
+} 
