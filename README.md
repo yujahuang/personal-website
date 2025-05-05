@@ -30,21 +30,6 @@ https://yujiahuang.vercel.app/
 
 ---
 
-## ⚙️ 本地开发与部署 | Development & Deployment
-
-```bash
-# 安装依赖 | Install dependencies
-npm install
-
-# 启动开发服务器 | Run development server
-npm run dev
-
-# 构建生产版本 | Build production version
-npm run build
-
-# 启动生产服务器 | Start production server
-npm start
-
 
 ## 项目结构 | Project Structure
 
