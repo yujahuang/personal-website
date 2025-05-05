@@ -11,10 +11,9 @@ https://yujiahuang.vercel.app/
 
 - 响应式设计，兼容手机、平板与桌面设备 | Responsive design, compatible with mobile, tablet, and desktop devices
 - 支持中文与英文切换 | Supports Chinese and English language switching
-- 深色 / 浅色主题模式 | Dark / Light theme mode
 - 个人简历在线展示 | Online personal resume display
 - 项目展示页面 | Project showcase page
-- 技能评分可视化（技能条 + 光晕效果）| Skill rating visualization (skill bars + glowing effects)
+- 技能评分可视化（技能条）| Skill rating visualization (skill bars)
 - 时间轴形式的工作经历展示 | Timeline-based work experience showcase
 - 可自定义的联系方式组件 | Customizable contact component
 
