@@ -1,9 +1,9 @@
 {
   "title": "Experience",
   "blockchain": {
-    "title": "China Blockchain Research Center, Southwestern University of Finance and Economics",
-    "period": "2024.1–2024.4",
-    "position": "Position: Analyst",
+    "title": "China Blockchain Research Center",
+    "period": "Jan 2024 – Apr 2024",
+    "position": "Position: Research Intern",
     "achievements": {
       "research": "Conducted in-depth research on modular Layer 2 solutions (e.g., Manta)",
       "framework": "Developed a six-part investment framework (Summary, Market, Project, Highlights, Valuation, Risks)",
@@ -14,12 +14,23 @@
   },
   "worldquant": {
     "title": "WorldQuant Brain Consultant",
-    "period": "2023.8–2023.9",
+    "period": "Aug 2023 – Sep 2023",
     "achievements": {
       "alpha": "Built a 50+ alpha-factor library through heterogeneous data and multi-factor modeling",
       "models": "Designed position sizing models via nonlinear optimization",
       "sharpe": "Achieved Sharpe ratio of 1.9+",
       "ranking": "Ranked top 3 globally in Alphathon Infinity Champions 002"
+    }
+  },
+  "bigquant": {
+    "title": "BigQuant",
+    "period": "Jul 2025 – Sep 2025",
+    "position": "Position: Quantitative Research Intern",
+    "achievements": {
+      "stock": "Developed 40+ daily-frequency stock selection strategies using machine learning models (LightGBM, XGBoost, CatBoost) with avg. Sharpe > 2.0; contributed to BigQuant SDK development and deployed live trading strategies integrating with QMT for automated execution",
+      "etf": "Built high-frequency ETF timing and daily-frequency fund selection strategies covering index, sector, and Smart Beta",
+      "futures": "Designed high-frequency futures strategies: cleaned, time-synchronized, and cross-validated 700K+ minute-level and tick data via DAI-SQL; replicated/developed 10+ strategies on Huatai Futures",
+      "crypto": "Developed daily-frequency deep learning cryptocurrency strategies using BigQuant visual modules and Binance data (DNN/CNN); summarized OKX order API for live deployment and iterative evaluation"
     }
   }
 } 

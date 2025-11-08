@@ -21,6 +21,60 @@ export default function Experience() {
 
         <Box w="100%">
           <Heading as="h2" size="lg" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
+            {t('bigquant.title')}
+          </Heading>
+          <Text color="gray.600" mb={6} fontSize="sm" className={isZh ? "zh-text" : "en-text"}>
+            {t('bigquant.period')}
+          </Text>
+          
+          <Box 
+            position="relative" 
+            width="100%" 
+            height="400px" 
+            mb={6} 
+            overflow="hidden"
+            borderRadius="md"
+            boxShadow="md"
+            transition="all 0.3s ease"
+            _hover={{ 
+              transform: "scale(1.02)",
+              boxShadow: "lg"
+            }}
+            bg="gray.50"
+          >
+            <Image
+              src="/assets/images/experience/bigquant.png"
+              alt="BigQuant Experience"
+              fill
+              style={{ 
+                objectFit: 'contain',
+                transition: "all 0.5s ease" 
+              }}
+            />
+          </Box>
+          
+          <Text fontSize="md" mb={4} className={isZh ? "zh-text" : "en-text"}>
+            {t('bigquant.position')}
+          </Text>
+          <List spacing={3}>
+            {[
+              'stock',
+              'etf',
+              'futures',
+              'crypto'
+            ].map((item) => (
+              <ListItem key={item} display="flex" alignItems="center" fontSize="sm" className={isZh ? "zh-text" : "en-text"}>
+                <ListIcon as={CheckCircleIcon} color="green.500" />
+                {t(`bigquant.achievements.${item}`)}
+              </ListItem>
+            ))}
+          </List>
+        </Box>
+
+        <Divider />
+
+        <Box w="100%">
+          <Heading as="h2" size="lg" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
             {t('blockchain.title')}
           </Heading>
           <Text color="gray.600" mb={6} fontSize="sm" className={isZh ? "zh-text" : "en-text"}>

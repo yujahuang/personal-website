@@ -59,9 +59,9 @@ export default function Contact() {
 
           <HStack spacing={4}>
             <Icon as={FaLinkedin} w={6} h={6} color="blue.500" />
-            <Text color="gray.500" className={isZh ? "zh-text" : "en-text"}>
-              {t('linkedin.coming_soon')}
-            </Text>
+            <Link href="https://www.linkedin.com/in/yujia-huang-a47375354" isExternal color="blue.500" className="en-text">
+              {t('contact_info.linkedin')}
+            </Link>
           </HStack>
         </VStack>
       </VStack>

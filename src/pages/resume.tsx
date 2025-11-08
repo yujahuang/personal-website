@@ -128,6 +128,23 @@ export default function Resume() {
             >
               {t('zh_resume')}
             </Button>
+            <Button
+              leftIcon={<DownloadIcon />}
+              colorScheme="gray"
+              variant="solid"
+              bgGradient="linear(to-r, gray.400, gray.600)"
+              _hover={{ 
+                bgGradient: "linear(to-r, gray.500, gray.700)",
+                transform: "translateY(-2px)",
+                boxShadow: "xl"
+              }}
+              boxShadow="md"
+              transition="all 0.3s ease"
+              onClick={() => handleView('Academic_CV.pdf')}
+              className={isZh ? "zh-text" : "en-text"}
+            >
+              {t('academic_cv')}
+            </Button>
           </Flex>
         </Box>
 

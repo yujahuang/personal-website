@@ -1,9 +1,9 @@
 {
   "title": "经历",
   "blockchain": {
-    "title": "西南财经大中国区块链研究中心",
+    "title": "中国区块链研究中心",
     "period": "2024.1–2024.4",
-    "position": "职位：分析师",
+    "position": "职位：投资研究实习生",
     "achievements": {
       "research": "深入研究模块化 Layer 2 解决方案（如 Manta）",
       "framework": "构建六维投资框架（摘要、市场、项目、亮点、估值、风险）",
@@ -20,6 +20,17 @@
       "models": "设计非线性优化算法的仓位分配模型",
       "sharpe": "实现 Sharpe 比率超过 1.9",
       "ranking": "在 Alphathon Infinity Champions 002 全球排名前 3"
+    }
+  },
+  "bigquant": {
+    "title": "BigQuant",
+    "period": "2025.7-2025.9",
+    "position": "职位：量化研究实习生",
+    "achievements": {
+      "stock": "开发日频机器学习选股策略，总计40+，平均夏普 2.0+。参与 BigQuant SDK 开发并落地股票实盘，接入 QMT 实现多券商自动化下单与监控",
+      "etf": "开发高频择时与日频选基ETF策略，覆盖指数、行业、Smart Beta等；实现胜率提升与回撤控制优化",
+      "futures": "开发高频期货策略，先基于 DAI‑SQL 对 70 万条分钟级与 Tick 数据完成清洗、校时与跨平台一致性校验，降低数据偏差；在此基础上于华泰期货平台复现/研发 10+ 高频策略",
+      "crypto": "开发日频深度学习加密货币策略，使用 BigQuant 可视化模块与binance现货数据构建DNN/CNN模型策略。总结 OKX 下单 API，促进实盘部署与迭代评估"
     }
   }
 } 
