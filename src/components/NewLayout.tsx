@@ -115,7 +115,7 @@ export default function NewLayout({ children }: LayoutProps) {
                 <Text fontSize="xl" fontWeight="bold" mb={2} letterSpacing="wide" textTransform="capitalize" color="gray.700" fontFamily={fontFamily} className={i18n.language === 'zh' ? 'zh-text' : 'en-text'}>
                   {i18n.language === 'zh' ? "黄雨佳" : "Yujia Huang"}
                 </Text>
-                <Text color="gray.600" mb={4} fontSize="md" fontFamily={fontFamily} className="en-text">yujia.huang2024@gmail.com</Text>
+                <Text color="gray.600" mb={4} fontSize="md" fontFamily={fontFamily} className="en-text">yujiahuang.research@gmail.com</Text>
                 <Divider borderColor="gray.300" mb={4} />
               </Box>
               
