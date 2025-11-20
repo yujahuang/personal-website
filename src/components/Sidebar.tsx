@@ -15,7 +15,7 @@ export default function Sidebar() {
       </Heading>
 
       <Text>
-        yujia.huang2024@gmail.com
+        yujiahuang.research@gmail.com
       </Text>
 
       <VStack align="start" spacing={4}>
