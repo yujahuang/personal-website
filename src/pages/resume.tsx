@@ -156,7 +156,7 @@ export default function Resume() {
           <VStack spacing={8} align="start">
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('skills.languages.title')}
+                {t('Languages & Programming')}
               </Heading>
               <Box w="100%">
                 <SkillBar name={t('skills.languages.chinese')} level={5} color="teal.500" />
