@@ -21,24 +21,7 @@ export default function Contact() {
             {t('description')}
           </Text>
           
-          <Box mt={4} mb={6}>
-            <Text fontSize="lg" fontWeight="medium" mb={2} className={isZh ? "zh-text" : "en-text"}>
-              {t('collaboration.title')}
-            </Text>
-            <UnorderedList spacing={2} pl={5}>
-              <ListItem className={isZh ? "zh-text" : "en-text"}>{t('collaboration.marketing')}</ListItem>
-              <ListItem className={isZh ? "zh-text" : "en-text"}>
-                {t('collaboration.technical.title')}
-                <UnorderedList spacing={1} mt={1}>
-                  <ListItem className={isZh ? "zh-text" : "en-text"}>{t('collaboration.technical.trading')}</ListItem>
-                  <ListItem className={isZh ? "zh-text" : "en-text"}>{t('collaboration.technical.fullstack')}</ListItem>
-                  <ListItem className={isZh ? "zh-text" : "en-text"}>{t('collaboration.technical.ai')}</ListItem>
-                </UnorderedList>
-              </ListItem>
-              <ListItem className={isZh ? "zh-text" : "en-text"}>{t('collaboration.research')}</ListItem>
-            </UnorderedList>
-          </Box>
-        </Box>
+
 
         <Divider borderColor="gray.300" width="100%" />
 
