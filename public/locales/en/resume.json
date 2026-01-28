@@ -35,11 +35,11 @@
         "postgresql": {
           "name": "PostgreSQL",
           "level": "Skillful"
-        }
+        },
         "c++": {
           "name": "C++",
           "level": "Beginner"
-        }
+        },
         "R": {
           "name": "R",
           "level": "Beginner"
