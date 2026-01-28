@@ -150,7 +150,7 @@ export default function Resume() {
 
         <Box w="100%">
           <Heading as="h2" size="lg" mb={6} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-            {t('skills.title')}
+            {t('Skills')}
           </Heading>
 
           <VStack spacing={8} align="start">
