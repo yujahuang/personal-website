@@ -153,7 +153,7 @@ export default function Resume() {
             {t('skills.title')}
           </Heading>
 
-          <VStack spacing={4} align="start">
+          <VStack spacing={8} align="start">
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
                 {t('skills.languages.title')}
