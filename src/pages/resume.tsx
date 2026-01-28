@@ -184,7 +184,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('skills.finance.title')}
+                {t('Financial Modeling & Analysis')}
               </Heading>
               <Box w="100%">
                 <SkillBar name={t('skills.finance.financial_analysis')} level={3} color="green.500" />
