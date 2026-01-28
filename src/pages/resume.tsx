@@ -91,7 +91,7 @@ export default function Resume() {
             {t('title')}
           </Heading>
           <Text mb={4} className={isZh ? "zh-text" : "en-text"}>
-            {t('view_text')}
+            {t('You can click here to view my resume')}
           </Text>
           <Flex gap={4}>
             <Button
@@ -173,7 +173,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('skills.blockchain.title')}
+                {t('Blockchain Data Analytical Tools')}
               </Heading>
               <Box w="100%">
                 <SkillBar name="Dune Analytics" level={4} color="purple.500" />
@@ -194,7 +194,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('skills.productivity.title')}
+                {t('Productivity & Visualization')}
               </Heading>
               <Box w="100%">
                 <SkillBar name="WIND" level={4} color="orange.500" />
