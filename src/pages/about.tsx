@@ -25,7 +25,7 @@ export default function About() {
             {t('study.title')}
           </Heading>
           <UnorderedList spacing={2}>
-            {['math1','math2','math3','math4','trading', 'blockchain', 'web', 'ml', 'finance'].map((item) => (
+            {['math1','math2','math3','math4','trading','alpha research','blockchain', 'web', 'ml', 'finance'].map((item) => (
               <ListItem key={item} className={isZh ? "zh-text" : "en-text"}>
                 {t(`study.items.${item}`)}
               </ListItem>
