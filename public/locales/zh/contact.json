@@ -1,7 +1,19 @@
 {
   "title": "联系方式",
   "description": "欢迎通过电子邮件与我联系，无论是合作、项目讨论，还是关于加密、金融或科技的随意交流，我都非常乐意！",
+  "collaboration": {
+    "title": "目前我提供以下几方面的合作：",
+    "marketing": "营销方面：企业或机构推特/油管运营",
+    "technical": {
+      "title": "技术方面：",
+      "trading": "开发量化交易策略或 Alpha 因子（使用 Python）",
+      "fullstack": "为各类项目提供技术支持，涵盖全栈开发",
+      "ai": "提供 AI 应用的本地部署支持"
+    },
+    "research": "研究方面：方法、数据与实证贡献"
+  },
 
+  
   "contact_info": {
     "email": "yujiahuang.research@gmail.com",
     "github": "GitHub",
