@@ -91,7 +91,7 @@ export default function Resume() {
             {t('title')}
           </Heading>
           <Text mb={4} className={isZh ? "zh-text" : "en-text"}>
-            {t('You can click here to view my resume')}
+            {t('view_text')}
           </Text>
           <Flex gap={4}>
             <Button
@@ -150,13 +150,13 @@ export default function Resume() {
 
         <Box w="100%">
           <Heading as="h2" size="lg" mb={6} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-            {t('Skills')}
+            {t('skills.title')}
           </Heading>
 
           <VStack spacing={8} align="start">
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('Languages & Programming')}
+                {t('skills.languages.title')}
               </Heading>
               <Box w="100%">
                 <SkillBar name={t('skills.languages.chinese')} level={5} color="teal.500" />
@@ -173,7 +173,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('Blockchain Data Analytical Tools')}
+                {t('skills.blockchain.title')}
               </Heading>
               <Box w="100%">
                 <SkillBar name="Dune Analytics" level={4} color="purple.500" />
@@ -184,7 +184,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('Financial Modeling & Analysis')}
+                {t('skills.finance.title')}
               </Heading>
               <Box w="100%">
                 <SkillBar name={t('skills.finance.financial_analysis')} level={3} color="green.500" />
@@ -194,7 +194,7 @@ export default function Resume() {
 
             <Box w="100%">
               <Heading as="h3" size="md" mb={4} textTransform="capitalize" className={isZh ? "zh-text" : "en-text"}>
-                {t('Productivity & Visualization')}
+                {t('skills.productivity.title')}
               </Heading>
               <Box w="100%">
                 <SkillBar name="WIND" level={4} color="orange.500" />
