@@ -1,17 +1,7 @@
 {
   "title": "Contact",
   "description": "Feel free to contact me via email—whether for collaboration, project discussion, or casual exchanges on crypto, finance, or tech, I'd be glad to connect!",
-  "collaboration": {
-    "title": "Here are the areas I currently offer for collaboration:",
-    "marketing": "Marketing: Full-stack setup and management of official WeChat accounts for companies/institutions (including content writing)",
-    "technical": {
-      "title": "Technical:",
-      "trading": "Development of quantitative trading strategies or alpha models (Python-based)",
-      "fullstack": "Full-stack technical support for various projects (I use Cursor VIP and other tools)",
-      "ai": "Assistance with local deployment of AI applications"
-    },
-    "research": "Research: Data analysis, research report writing, slide deck creation, and presentation delivery"
-  },
+
   "contact_info": {
     "email": "yujiahuang.research@gmail.com",
     "github": "GitHub",
