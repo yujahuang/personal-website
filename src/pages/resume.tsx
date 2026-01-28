@@ -165,7 +165,7 @@ export default function Resume() {
                 <SkillBar name="MySQL" level={4} color="blue.500" />
                 <SkillBar name="VBA" level={2} color="blue.500" />
                 <SkillBar name="PostgreSQL" level={2} color="blue.500" />
-                <SkillBar name="Python" level={1} color="blue.500" />
+                <SkillBar name="Python" level={3} color="blue.500" />
               </Box>
             </Box>
 
