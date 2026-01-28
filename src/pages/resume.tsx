@@ -163,9 +163,9 @@ export default function Resume() {
                 <SkillBar name={t('skills.languages.english')} level={4} color="teal.500" />
                 <SkillBar name="Java" level={4} color="blue.500" />
                 <SkillBar name="MySQL" level={4} color="blue.500" />
+                <SkillBar name="Python" level={3} color="blue.500" />
                 <SkillBar name="VBA" level={2} color="blue.500" />
                 <SkillBar name="PostgreSQL" level={2} color="blue.500" />
-                <SkillBar name="Python" level={3} color="blue.500" />
               </Box>
             </Box>
 
