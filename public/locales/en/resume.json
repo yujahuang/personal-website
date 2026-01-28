@@ -36,6 +36,14 @@
           "name": "PostgreSQL",
           "level": "Skillful"
         }
+        "c++": {
+          "name": "c++",
+          "level": "Beginner"
+        }
+        "R": {
+          "name": "R",
+          "level": "Beginner"
+        }
       }
     },
     "blockchain": {
