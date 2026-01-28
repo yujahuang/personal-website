@@ -6,6 +6,10 @@
   "study": {
     "title": "我学习",
     "items": {
+      "math1": "拓扑",
+      "math2": "偏微分方程",
+      "math3": "实变函数论",
+      "math4": "随机过程",
       "trading": "量化交易与 alpha 因子研究",
       "blockchain": "区块链基础设施（Layer 2、零知识证明）",
       "web": "全栈网站开发",
