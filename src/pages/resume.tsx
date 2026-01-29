@@ -14,7 +14,7 @@ interface SkillProps {
 
 const SkillBar: React.FC<SkillProps> = ({ name, level, max = 5, color = "blue.500" }) => {
   return (
-    <Box mb={4} width="100%">
+    <Box mb={8} width="100%">
       <Flex justify="flex-end" mb={1}>
         <Text fontSize="md" color="gray.500">{level}/{max}</Text>
       </Flex>
